@@ -1,0 +1,12 @@
+use ww_f14;
+select count(*) from STAB27H3_user where user_id='parkhy59';
+select count(*) from STAB27H3_user where user_id='zagoract';
+select count(*) from STAB27H3_user where user_id='persa431';
+select count(*) from STAB27H3_user where user_id='farahm18';
+select count(*) from STAB27H3_user where user_id='pears116';
+select count(*) from STAB27H3_user where user_id='wangan36';
+select count(*) from STAB27H3_user where user_id='cheny547';
+select count(*) from STAB27H3_user where user_id='linenne1';
+select count(*) from STAB27H3_user where user_id='gargsanc';
+select count(*) from STAB27H3_user where user_id='kanodiaaa';
+select count(*) from STAB27H3_user where user_id='';
